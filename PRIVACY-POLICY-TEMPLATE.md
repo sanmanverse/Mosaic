@@ -1,10 +1,11 @@
 # Mosaic privacy policy — publication template
 
-> This is a drafting template, not legal advice. Replace every bracketed item and obtain jurisdiction-specific legal review before launch.
 
-**Effective date:** [DATE]  
-**Operator:** [LEGAL ENTITY / OWNER]  
-**Contact:** [PRIVACY CONTACT]
+
+
+**Effective date:** [21/11/2026]
+**Operator:** [SANMAN TIWARI]  
+**Contact:** [sanmantiwari4@gmail.com]
 
 ## Information collected
 
